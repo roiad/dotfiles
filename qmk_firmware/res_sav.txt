@@ -1,0 +1,29 @@
+/home/roi/.local/share/dolphin-emu/StateSaves/GWWE01.s01.dtm.sav
+/home/roi/.local/share/dolphin-emu/StateSaves/undo.dtm.sav
+/home/roi/.local/share/dolphin-emu/StateSaves/GPVE01.s01.dtm.sav
+/home/roi/.local/share/dolphin-emu/StateSaves/GWZE01.s03.dtm.sav
+/home/roi/.local/share/dolphin-emu/StateSaves/GWZE01.s04.dtm.sav
+/home/roi/.local/share/dolphin-emu/StateSaves/GWZE01.s05.dtm.sav
+/home/roi/.var/app/org.DolphinEmu.dolphin-emu/data/dolphin-emu/StateSaves/G4QE01.s02.dtm.sav
+/home/roi/.var/app/org.DolphinEmu.dolphin-emu/data/dolphin-emu/StateSaves/undo.dtm.sav
+/home/roi/.var/app/org.DolphinEmu.dolphin-emu/data/dolphin-emu/StateSaves/G4QE01.s04.dtm.sav
+/home/roi/.var/app/org.DolphinEmu.dolphin-emu/data/dolphin-emu/StateSaves/G4QE01.s06.dtm.sav
+/home/roi/.var/app/org.DolphinEmu.dolphin-emu/data/dolphin-emu/StateSaves/G4QE01.s03.dtm.sav
+/home/roi/.var/app/org.DolphinEmu.dolphin-emu/data/dolphin-emu/StateSaves/G4QE01.s05.dtm.sav
+/home/roi/.var/app/org.DolphinEmu.dolphin-emu/data/dolphin-emu/StateSaves/G4QE01.s07.dtm.sav
+/home/roi/.var/app/org.DolphinEmu.dolphin-emu/data/dolphin-emu/StateSaves/G4QE01.s01.dtm.sav
+/home/roi/NEWTAS.dtm.sav
+find: ‘/proc/219891/task/219891/net’: Invalid argument
+find: ‘/proc/219891/net’: Invalid argument
+find: ‘/run/user/1000/gvfs’: Permission denied
+find: ‘/run/user/1000/doc’: Permission denied
+/media/win/Users/rox/AppData/Roaming/Dolphin Emulator/StateSaves/G4QE01.s04.dtm.sav
+/media/win/Users/rox/AppData/Roaming/Dolphin Emulator/StateSaves/G4QE01.s05.dtm.sav
+/media/win/Users/rox/AppData/Roaming/Dolphin Emulator/StateSaves/G4QE01.s06.dtm.sav
+/media/win/Users/rox/AppData/Roaming/Dolphin Emulator/StateSaves/G4QE01.s07.dtm.sav
+/media/win/Users/rox/AppData/Roaming/Dolphin Emulator/StateSaves/NAKE01.s03.dtm.sav
+/media/win/Users/rox/AppData/Roaming/Dolphin Emulator/StateSaves/undo.dtm.sav
+/media/win/Users/rox/Desktop/Dolphin-x64/1stRun1stLevelSaveState3o4.dtm.sav
+/media/win/Users/rox/Desktop/Dolphin-x64/delete.dtm.sav
+/media/win/Users/rox/Desktop/Dolphin-x64/dkn.dtm.sav
+/media/win/Users/rox/Desktop/Dolphin-x64/test.dtm.sav
